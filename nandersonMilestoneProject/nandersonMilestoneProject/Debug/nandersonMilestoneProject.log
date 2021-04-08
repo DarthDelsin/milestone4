@@ -1,0 +1,3 @@
+﻿  mainFile.c
+C:\Users\krayt\OneDrive - Grand Canyon University\School\Year 2 2020-2021\Semester 2\ITT-310\nandersonMilestoneProject\nandersonMilestoneProject\nandersonMilestoneProject\mainFile.c(38,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+  nandersonMilestoneProject.vcxproj -> C:\Users\krayt\OneDrive - Grand Canyon University\School\Year 2 2020-2021\Semester 2\ITT-310\nandersonMilestoneProject\nandersonMilestoneProject\Debug\nandersonMilestoneProject.exe
